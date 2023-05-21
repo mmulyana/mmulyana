@@ -12,11 +12,11 @@ class About extends Me {
   }
   
   getCurrentExplore() {
-    return 'Next.js 13 and graphQL'
+    return 'Next.js 13'
   }
 
   getCurrentGoal() {
-    return 'Get an internship at 2023'
+    return 'Get an internship'
   }
 }
 ```
