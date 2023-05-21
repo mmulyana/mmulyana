@@ -1,16 +1,22 @@
-### Hi there 👋
+```javascript
+class About extends Me {
+  getCurrentStudy() {
+    return {
+        university: 'Ahmad Dahlan University',
+        major: 'Informatic'
+    }
+  }
 
-<!--
-**mmulyana/mmulyana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  getDailyKnowledge() {
+    return ['Javascript', 'React js', 'Next js', 'Typescript']
+  }
+  
+  getCurrentExplore() {
+    return 'Next.js 13 and graphQL'
+  }
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  getCurrentGoal() {
+    return 'Get an internship at 2023'
+  }
+}
+```
