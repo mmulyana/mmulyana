@@ -12,7 +12,7 @@ class About extends Me {
   }
   
   getCurrentExplore() {
-    return ['Next.js 13', 'GraphQL']
+    return ['Next.js 13', 'GraphQL', 'unit & integration test']
   }
 
   getCurrentGoal() {
