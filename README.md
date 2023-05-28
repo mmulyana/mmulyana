@@ -7,12 +7,16 @@ class About extends Me {
     }
   }
 
-  getDailyKnowledge() {
+  getSkills() {
     return ['Javascript', 'React js', 'Next js', 'Typescript']
   }
   
   getCurrentExplore() {
     return ['Next.js 13', 'GraphQL', 'unit & integration test']
+  }
+  
+  getNextExploration() {
+    return ['Vue js', 'Laravel', 'Go', 'Wordpress']
   }
 
   getCurrentGoal() {
