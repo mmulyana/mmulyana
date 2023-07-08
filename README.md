@@ -12,15 +12,15 @@ class About extends Me {
   }
   
   getCurrentExplore() {
-    return ['Next.js 13', 'GraphQL', 'unit & integration test']
+    return ['GraphQL', 'Vue js', 'Go']
   }
   
   getNextExploration() {
-    return ['Vue js', 'Laravel', 'Go', 'Wordpress']
+    return ['Laravel', 'Wordpress']
   }
 
   getCurrentGoal() {
-    return 'Get an internship or freelance'
+    return 'freelance'
   }
 }
 ```
