@@ -18,6 +18,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badgee&logo=github)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badgee&logo=visual-studio-code)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badgee&logo=vercel&logoColor=white)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badgee&logo=storybook&logoColor=white)
 
 ### 🔬 Currently learning
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badgee&logo=graphql)
